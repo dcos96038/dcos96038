@@ -1,4 +1,4 @@
-<h2> I'm Diego Coscolla</h2>
+<h2> Hi, i'm Diego Coscolla</h2>
 
 <h3> 👨🏻💻 About Me </h3>
 
