@@ -2,7 +2,7 @@
 
 <h3> 👨🏻💻 About Me </h3>
 
-I am passionate about web developing and i am currently training as a web developer. I have knowledge of MERN Stack, CSS and HTML
+I am passionate about web developing and I am currently working as a frontend developer. My main technology is React with Typescript!
 
 <div>
     <h2>Skills</h2>
