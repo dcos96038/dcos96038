@@ -9,7 +9,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A Self-taught Front-end developer
 - I’m currently working in <a href="https://www.linkedin.com/company/nosis" target="blank">Nosis</a>
 - Currently learning Web Development and functional programming by Self
 - How to reach me **diegocoscolla@gmail.com**
