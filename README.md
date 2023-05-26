@@ -1,21 +1,8 @@
-
 <h1 align="center"><b>Hi , I'm Diego Coscolla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## **About me**
-
-<br>
-
-- A Self-taught Front-end developer
-- I’m currently working in <a href="https://www.linkedin.com/company/nosis" target="blank">Nosis</a>
-- Currently learning Web Development and functional programming by Self
-- How to reach me **diegocoscolla@gmail.com**
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+</br>
+<h2>My Skills</h2>
+</br>
 
 <p align="center">
 
@@ -52,14 +39,7 @@
 </p>
 
 <br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<h2>Github Stats</h2>
 <br>
 
 <div align="center">
@@ -71,17 +51,8 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
 -----
 
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
 <div align='left'>
 
 <ul>
@@ -110,12 +81,6 @@
 	
 </ul>
 </div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
 <div align='center'>
 
